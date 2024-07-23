@@ -5,3 +5,7 @@ The RA8875 was used as an LCD-Driver the Library is from Adafruit, but rewriten 
 The BMA400 Library was written without any prior code only the Definitions are from Bosch API.
 
 The Electical shematic are indented to be used along with the Adafruit RA8875-Board.
+
+This Project is created by:
+Felix Neumann (Matr.Nr. 215892)
+Lukas Both    (Matr.Nr. 215828)
